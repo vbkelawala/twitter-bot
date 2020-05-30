@@ -17,4 +17,4 @@ user = api.get_user('demsaltyboiis')
 print(user.screen_name)
 print(user.followers_count)
 
-api.update_status(status="Hello World from Pyhton.")
+# api.update_status(status="Hello World from Pyhton.")
